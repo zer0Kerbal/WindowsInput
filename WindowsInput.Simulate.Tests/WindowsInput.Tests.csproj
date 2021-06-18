@@ -15,6 +15,6 @@
     <Folder Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WindowsInput\WindowsInput.csproj" />
+    <ProjectReference Include="WindowsInput\WindowsInput.csproj" />
   </ItemGroup>
 </Project>
